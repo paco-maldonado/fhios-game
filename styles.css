@@ -1,0 +1,39 @@
+button:active, button:focus {
+outline: none;
+border: none;
+}
+
+
+.contenedor{
+  background-color:lightgrey;
+  border:1px solid black;
+  width:80%;
+  margin:0 auto;
+  height:15px;
+  display:inline-block;
+}
+
+
+#ganador img {
+      width: 150px;
+}
+
+
+.barra{
+  background-color:green;
+  height:100%;
+}
+
+.imagen{
+  border-radius:50%;
+  width:50px;
+  height:50px
+}
+
+#puchame{
+  border-radius:50%;
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
